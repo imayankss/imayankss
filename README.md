@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋, I'm Mayank Suryavanshi<br><br>AI and Machine Learning enthusiast exploring NLP, RAG, forecasting, and intelligent systems.<br><br>I enjoy building practical ML solutions that connect data, models, and real world decision making.<br><br>* 🚀 Focused on NLP, RAG, AI driven applications, and data centric ML systems<br>* 🔭 Recent Projects: Earnings Call Sentiment Analyzer, Credit Card Fraud Detection & Risk Scoring System<br>* 🌱 Currently Learning: RAG, Scikit-Learn, PyTorch, Hugging Face, and FastAPI<br>* 💼 Experience: Machine Learning Intern @ BOI<br>* 🎓 Integrated M.Tech in Artificial Intelligence @ VIT Bhopal University<br>
 
 
