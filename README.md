@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⭐ About Me:
 About Me<br><br>AI/ML Engineer and Integrated M.Tech (AI) student at VIT Bhopal, building reliable end-to-end ML systems across NLP, financial analytics, forecasting, and decision support.<br><br>- 🔭 I’m currently working on reliability-aware on-device scientific-paper summarization and production-minded ML systems.<br>- 👯 I’m looking to collaborate on applied AI/ML, NLP, LLM systems, and data-driven products.<br>- 🤝 I’m looking for help with reproducible ML evaluation, model deployment, and open-source AI projects.<br>- 🌱 I’m currently learning reliable LLM systems, calibration, evaluation, and on-device AI.<br>- 💬 Ask me about Python, machine-learning pipelines, fraud-risk modelling, NLP, forecasting, FastAPI, and XGBoost.<br>- ⚡ Fun fact: I care as much about evidence, limitations, and safe failure modes as I do about model metrics.
 
 
