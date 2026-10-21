@@ -1,13 +1,34 @@
-# ⭐ About Me:
-About Me<br><br>AI/ML Engineer and Integrated M.Tech (AI) student at VIT Bhopal, building reliable end-to-end ML systems across NLP, financial analytics, forecasting, and decision support.<br><br>- 🔭 I’m currently working on reliability-aware on-device scientific-paper summarization and production-minded ML systems.<br>- 👯 I’m looking to collaborate on applied AI/ML, NLP, LLM systems, and data-driven products.<br>- 🤝 I’m looking for help with reproducible ML evaluation, model deployment, and open-source AI projects.<br>- 🌱 I’m currently learning reliable LLM systems, calibration, evaluation, and on-device AI.<br>- 💬 Ask me about Python, machine-learning pipelines, fraud-risk modelling, NLP, forecasting, FastAPI, and XGBoost.<br>- ⚡ Fun fact: I care as much about evidence, limitations, and safe failure modes as I do about model metrics.
+<div align="center">
 
+<h3><code>mayank@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution graph for the last year, refreshed daily" />
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imayankss/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankssss27@gmail.com) 
+<br><br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=imayankss&theme=dark&hide_border=false)<br/>
+<h3><code>mayank@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait-ascii.svg" width="370" alt="ASCII-art portrait of Mayank Suryavanshi" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="AI/ML Engineer, Integrated M.Tech (AI) at VIT Bhopal. Working on reliability-aware on-device summarization. Projects: SecureSwipe, CASA forecasting, bank lead scoring, Amazon ML Challenge 2026." /></td>
+  </tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<h3><code>mayank@github ~ $ ls ~/projects</code></h3>
+<table>
+  <tr>
+    <td width="430" valign="top"><a href="https://github.com/imayankss/SecureSwipe"><b>SecureSwipe</b></a> · <a href="https://secure-swipe.vercel.app">live</a><br><sub>Capacity-aware fraud-risk manager: ranks suspicious card transactions under a fixed review budget and returns bounded, auditable decisions.</sub></td>
+    <td width="430" valign="top"><a href="https://github.com/imayankss/reliability-aware-on-device-summarization"><b>On-device summarization</b></a><br><sub>Evidence-first research on reliability-aware selection and abstention for on-device scientific-paper summarization.</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><a href="https://github.com/imayankss/CASA-forecasting"><b>CASA Forecasting</b></a><br><sub>Time-series forecasting and analytics for Current Account / Savings Account trends with ML and statistical models.</sub></td>
+    <td valign="top"><a href="https://github.com/imayankss/bank_lead_scoring"><b>Bank Lead Scoring</b></a><br><sub>Retail-banking lead scoring and CLTV on synthetic customer-360 data: dbt ELT, ML models, FastAPI + Streamlit CRM views.</sub></td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://www.linkedin.com/in/imayankss/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:mayankssss27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>

@@ -1,0 +1,5 @@
+# only needed locally, when you change the photo (the daily workflow skips these)
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]
